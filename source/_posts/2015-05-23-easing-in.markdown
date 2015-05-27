@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Easing In"
+date: 2015-05-23 10:56:41 -0700
+comments: true
+categories: DarkHorse YoungHickory
+---
+
+My name is Mark Grossman and I don't like coffee.  
+
+Well...I'm not sure if I like coffee yet. It's pretty bitter and seems complicated to make correctly.  I want to like coffee. It seems like it has so many benefits like caffeine, it's everywhere, and I guess for some people, it tastes good. Long story short, I'd like you to join me on my journey to discover whether or not I like coffee. I'll be trying coffee at different coffee shops around San Diego and anytime I have a cup, I'll write about it here and give you my reaction.
+
+##Why am I doing this?
+
+More and more *artisanal* coffee shops and roasters seem to be popping up in San Diego: Dark Horse, Bird Rock, Holsem, Influx, Zumbar, etc... Oh, and by the way, my wife, Simone, just started working at [Holsem Coffee](http://www.holsemcoffee.com/) in North Park, so I feel like I should at least try to like coffee. I'd like to understand why my coworkers will spend spend 10 minutes to make one cup of coffee. Having lived in San Diego for about 7 years now, I've started to really enjoy the bitter San Diego IPAs, so maybe this has prepared me to like coffee. I guess we'll see. You might be asking yourself *"If you don't like coffee, why write a blog about it?"* Well kind reader, why not? It could be fun or it could be terrible, but the only way to find out is for me to keep writing and for you to keep reading.
+
+##Coffee Interactions So Far
+
+Growing up, my dad would occasionally get decaf coffee at the end of a meal and I would love pouring the milk in to see it swirl around until it became a solid cream color. Coffee has always smelled good to me, but I've tasted it here and there and never really liked the taste. **Too bitter**. A few weeks ago, my wife took me to Dark Horse Coffee in North Park to get an iced latte, which I tasted and promptly poured in a few sugar packets. Not a great start. All I could think to myself is "Why the hell do people like this stuff?" I didn't even feel a caffeine buzz afterwards so it wasn't even worth the taste. 
+
+A week later, I was at Young Hickory and I got a dirty chai. This experience went better as I do enjoy a good chai tea latte and the coffee was partially masked by the chainess.
+
+{% img center /images/dirty_chai.jpg Dirty Chai %}
+
+Then last weekend, Simone and I were back at Dark Horse and I ordered an iced Champ which seems like a latte, but they add some honey and cinnamon so it actually tastes pretty good. That could be because the bitterness is masked by the honey and cinnamon, but hey, it tasted good. I think my next step is to try some straight up coffee and see how that goes. 
+
+##Questions To Answer
+* What's the difference between a Cappuccino, Latte, and Macchiato?
+* Why is Starbucks coffee considered bad?
+* What is third wave coffee and why haven't I heard of the first two?
