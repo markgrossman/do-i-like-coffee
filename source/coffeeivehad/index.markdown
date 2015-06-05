@@ -15,3 +15,4 @@ footer: true
 * Dirty Chai - [Zumbar](http://zumbarcoffee.com/)
 * Cappuccino - [Heartwork Coffee Bar](http://heartworkcoffeebar.com/)
 * Kenya Nguvu Pour Over - [James Coffee Co.](http://jamescoffeeco.com/)
+* [Cold Brew](/blog/2015/05/27/intimidation-game/) - [Influx Cafe](http://www.influxcafe.com/)
